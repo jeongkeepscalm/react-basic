@@ -1,5 +1,6 @@
 
-import reactImage from '../assets/react-core-concepts.png';
+import reactImage from '/src/assets/react-core-concepts.png';
+import './Header.css';
 
 const reactDescriptions = ['aaa', 'bbb', 'ccc'];
 
